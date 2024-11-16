@@ -26,7 +26,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "A custom recommendation engine inspired by platforms like YouTube and Google Search, designed to provide personalized content recommendations using AI and machine learning.",
-    technologies: ["Next.js", "Convex DB", "LangChain", "Voyage AI"],
+    technologies: ["Next.js", "Convex DB", "LangChain"],
     liveLink: "https://nextgen-recsys.vercel.app/",
     githubLink: "https://github.com/asimar007/Custom-Recommendation-System",
   },
@@ -53,7 +53,7 @@ export const PROJECTS = [
     image: project4,
     description:
       "It involves automating the identification and deletion of stale EBS snapshots, reducing unnecessary storage costs. The process ensures only snapshots linked to active EC2 instances are retained.",
-    technologies: ["AWS", "EC2", "EBS Snapshot"],
+    technologies: ["Python", "EC2", "EBS Snapshot"],
     liveLink: "https://github.com/asimar007/Cloud-Cost-Optimization",
     githubLink: "https://github.com/asimar007/Cloud-Cost-Optimization",
   },
